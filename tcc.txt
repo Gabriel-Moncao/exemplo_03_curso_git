@@ -5,3 +5,5 @@ este é meu tcc
 Estou modificando este arquivo pela primeira vez
 Irei alterar essa bagaça
 pela segunda vez
+Caramba, acho que peguei o espírito da coisa
+É facin usar o git xD
